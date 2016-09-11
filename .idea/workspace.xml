@@ -500,12 +500,12 @@
       <option name="number" value="Default" />
       <updated>1473616303390</updated>
       <workItem from="1473616304630" duration="2000" />
-      <workItem from="1473616308674" duration="449000" />
+      <workItem from="1473616308674" duration="602000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="451000" />
+    <option name="totallyTimeSpent" value="604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="30" y="27" width="1297" height="758" extended-state="0" />
@@ -539,6 +539,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
